@@ -1,5 +1,5 @@
  .logo{
- height: 70px;
+ height: 85px;
 
  }
 
@@ -18,7 +18,9 @@ body{
  }
 
  .mascot{
-    height: 200px;
+    height: 400px;
+    margin:-10%;
+    margin-top: 5%;
  }
     
 
@@ -31,13 +33,14 @@ body{
  header{
     height: 70px;
     background-color: rgb(171, 238, 201);
-    margin: 10%;
-    ;
+    text-align: center;
+    margin-top: 5%;
+
 }
 
 aside{
-    height: 323px;
-    width: 47%;
+    height: 350px;
+    width: 35%;
     float: right;
     margin-right: 1%;
     
@@ -59,9 +62,8 @@ article{
 
 }
 footer{
-    height: 200px;
-    width: px;
-    background-color: rgb(61, 114, 86);
+    height: 100px;
+    background-color: rgb(27, 37, 32);
     color: rgb(255, 255, 255);
     margin-top: 10%;
 
@@ -70,6 +72,10 @@ footer{
 b{
     display: inline-block;
     margin: 10px;
-    color: black;
+    color: rgb(69, 161, 100);
  
+}
+
+c{
+    color: rgb(132, 241, 174);
 }
