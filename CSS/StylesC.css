@@ -8,22 +8,19 @@
    
    }
    
+    iframe{
+      padding-left: 25%
+
+     }
+
     a{
         display: inline-block;
         margin: 10px;
         color: black;
        float: right;
        font-family: Arial, Helvetica, sans-serif;
-     
+    
     }
-   
-    .mascot{
-       height: 400px;
-       margin:-10%;
-       margin-top: 5%;
-    }
-       
-   
    
     a:hover {
        color: rgb(12, 201, 91);
