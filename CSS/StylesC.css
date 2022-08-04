@@ -13,6 +13,7 @@
 
      }
 
+
     a{
         display: inline-block;
         margin: 10px;
@@ -65,14 +66,15 @@
        margin-top: 10%;
    
    }
-   
-   b{
-       display: inline-block;
-       margin: 10px;
-       color: rgb(69, 161, 100);
-    
+
+   b{ 
+    padding: 14%
+
+
    }
+ 
    
    c{
        color: rgb(132, 241, 174);
+
    }
