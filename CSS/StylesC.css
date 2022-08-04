@@ -13,7 +13,15 @@
 
      }
 
+     .footer-nav-column{
+        display: inline-block;
+        margin: 10px;
+        color: black;
+       float: left;
+       font-family:Arial, Helvetica, sans-serif;
 
+     }
+     
     a{
         display: inline-block;
         margin: 10px;

@@ -23,7 +23,16 @@
        margin-top: 5%;
     }
        
-   
+   .footer-nav-column{
+    display: inline-block;
+    margin: 10px;
+    color: black;
+   float: left;
+   font-family:Arial, Helvetica, sans-serif;
+ 
+
+
+   }
    
     a:hover {
        color: rgb(12, 201, 91);

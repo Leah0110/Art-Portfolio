@@ -17,6 +17,15 @@ body{
   
  }
 
+      .footer-nav-column{
+        display: inline-block;
+        margin: 10px;
+        color: black;
+       float: left;
+       font-family:Arial, Helvetica, sans-serif;
+
+     }
+
  .mascot{
     height: 400px;
     margin:-10%;
